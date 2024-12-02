@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8acSm73hMY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Source\\Repos\\505433-Dhimas-Nurhanindya-Putra-ResponsiJuniorProject\\Responsai\\responsi\\responsi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\npgsql\\9.0.1\\npgsql.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
